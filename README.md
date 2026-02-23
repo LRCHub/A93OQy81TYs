@@ -1,0 +1,70 @@
+# Jason Mraz – I'm Yours
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Well you done done me
+and you bet I felt it
+I tried to be chill
+but you're so hot that I melted
+I fell right through the cracks
+and now I'm trying to get back
+Before the cool done run out
+I'll be giving it my bestest
+Nothing's going to
+stop me but divine intervention
+I reckon it's again my turn
+to win some or learn some
+but I won't hesitate
+no more no more
+It cannot wait I'm yours
+Well open up your mind
+and see like me
+Open up your plans
+and damn you're free
+Look into your heart
+and you'll find
+love love love love
+Listen to the music of the
+moment people
+and dancing with us
+one big family
+It's your God forsaken
+right to be loved love
+loved love loved
+So I won't hesitate
+no more no more
+It cannot wait I'm sure
+There's no need to complicate
+Our time is short
+This is our fate I'm yours
+I've been spending way
+too long checking
+my tongue in the mirror
+And bending over backwards
+just to try to see it clearer
+My breath fogged up the glass
+And so I drew a
+new face and laughed
+I guess what I'm a saying
+is there ain't no better reason
+To rid yourself of vanity
+and just go with the seasons
+It's what we aim to do
+Our name is our virtue but
+I won't hesitate
+no more no more
+It cannot wait I'm your
+open up your mind
+and see like me
+Open up your plans
+and damn you're free
+Look into your heart
+and you'll find
+the sky is your so free
+don't frees don't frees don't
+there No need to complicate
+cause Our time is short
+this so this so this is afraid
+I'm yours
+```
