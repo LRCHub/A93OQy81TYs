@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "I'm Yours",
+  "base_artist": "Jason Mraz",
+  "createdAt": "2026-02-23T01:49:58.731833Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm Yours",
+      "artist": "Jason Mraz",
+      "has_synced": true,
+      "path": "select/01_I'm_Yours_Jason_Mraz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Signed, Sealed, Delivered (I'm Yours)",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/02_Signed,_Sealed,_Delivered_(I'm_Yours)_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Signed, Sealed, Delivered, I'm Yours - Live/1995",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/03_Signed,_Sealed,_Delivered,_I'm_Yours_-_Live_1995_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Signed, Sealed, Delivered, I'm Yours (Live\u00001995)",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/04_Signed,_Sealed,_Delivered,_I'm_Yours_(Live\u00001995)_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby I'm Yours (Aeroplane Remix)",
+      "artist": "Breakbot",
+      "has_synced": false,
+      "path": "select/05_Baby_I'm_Yours_(Aeroplane_Remix)_Breakbot.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby I'm Yours (instrumental)",
+      "artist": "Breakbot",
+      "has_synced": false,
+      "path": "select/06_Baby_I'm_Yours_(instrumental)_Breakbot.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby I'm Yours (La Funk Mob instrumental remix)",
+      "artist": "Breakbot",
+      "has_synced": false,
+      "path": "select/07_Baby_I'm_Yours_(La_Funk_Mob_instrumental_remix)_Breakbot.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baby I'm Yours (LaFunkMob Remix)",
+      "artist": "Breakbot",
+      "has_synced": false,
+      "path": "select/08_Baby_I'm_Yours_(LaFunkMob_Remix)_Breakbot.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Baby I'm Yours (Siriusmo instrumental remix)",
+      "artist": "Breakbot",
+      "has_synced": true,
+      "path": "select/09_Baby_I'm_Yours_(Siriusmo_instrumental_remix)_Breakbot.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby I'm Yours (Siriusmo Remix)",
+      "artist": "Breakbot",
+      "has_synced": false,
+      "path": "select/10_Baby_I'm_Yours_(Siriusmo_Remix)_Breakbot.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baby I'm Yours",
+      "artist": "Breakbot feat. Irfane",
+      "has_synced": true,
+      "path": "select/11_Baby_I'm_Yours_Breakbot_feat._Irfane.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Baby I'm Yours (featuring Irfane)",
+      "artist": "Breakbot",
+      "has_synced": true,
+      "path": "select/12_Baby_I'm_Yours_(featuring_Irfane)_Breakbot.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baby I'm Yours",
+      "artist": "Breakbot",
+      "has_synced": true,
+      "path": "select/13_Baby_I'm_Yours_Breakbot.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baby I'm Yours",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/14_Baby_I'm_Yours_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Los Angeles, I'm Yours",
+      "artist": "The Decemberists",
+      "has_synced": true,
+      "path": "select/15_Los_Angeles,_I'm_Yours_The_Decemberists.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'm Yours",
+      "artist": "Jason Mraz",
+      "has_synced": true,
+      "path": "select/16_I'm_Yours_Jason_Mraz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'm Yours - From the Casa Nova Sessions",
+      "artist": "Jason Mraz",
+      "has_synced": true,
+      "path": "select/17_I'm_Yours_-_From_the_Casa_Nova_Sessions_Jason_Mraz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'm Yours",
+      "artist": "Jason Mraz",
+      "has_synced": false,
+      "path": "select/pl_01_I'm_Yours_Jason_Mraz.txt"
+    }
+  ]
+}
